@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Varna (Doddigarla Varna)
+# 👋 Hi, I'm Ravi(V Ravi)
 
 🎓 Computer Science Student | 💻 Web Developer | 🚀 Aspiring Software Engineer
 
@@ -26,8 +26,8 @@ I am a motivated and detail-oriented Computer Science student with hands-on expe
 - Machine Learning basics
 
 I have completed internships and built real-world projects including:
-- 🎬 Movie Review Website  
-- 💰 Investment Tracking System  
+- 🎬 Movies Website  
+- 💰 Invest tracking System  
 
 ---
 
